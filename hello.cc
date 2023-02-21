@@ -1,0 +1,1 @@
+prinf("tap tin nhi phan");
